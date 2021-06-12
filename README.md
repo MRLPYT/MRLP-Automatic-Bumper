@@ -10,7 +10,7 @@
     <b>GIT:</b><br>
     git clone https://github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens<br><br>
     <b>DOWNLOAD:</b><br>
-    <a onclick="window.open(' https://codeload.github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens/zip/refs/heads/master')">Click Here To Download</a>
+     https://codeload.github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens/zip/refs/heads/master
     <h3><u><b>PIP-LIBARIES:</b></u></h3><br>
     -time<br>
     -requests<br>
