@@ -5,7 +5,7 @@
     <b><h3>SKDDING IS ILEGAL!</h3><br>DONT USE MY CODE FOR YOUR PROJECT!<br>THANKS!</b>
     <br>
     <h3><u><b>DISABARD:</b></u></h3><br>
-    List: https://disboard.org/
+    https://disboard.org/
     <h3><u><b>INSTALL:</b></u></h3><br>
     <b>GIT:</b><br>
     git clone https://github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens<br><br>
