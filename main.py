@@ -2,7 +2,6 @@ from __future__ import absolute_import
 try:
     import os
     import json
-    import random
     import time
     import requests
     from time import *
@@ -43,7 +42,10 @@ def main():
         except:
             print("[!] Loop is broken!")
             break
-        sleep(121*60)
+        try:
+            sleep(121*60)
+        except:
+            print("[!] Problem with time libary, try to reinstall and upgrade")
 
 print(Fore.LIGHTBLUE_EX + f"""  __  __ _____  _      _____              _    _ _______ ____         ____  _    _ __  __ _____  ______ _____  
  |  \/  |  __ \| |    |  __ \        /\  | |  | |__   __/ __ \       |  _ \| |  | |  \/  |  __ \|  ____|  __ \ 
@@ -69,34 +71,36 @@ if setupdone == "1":
     sleep(0.8)
     main()
 elif setupdone == "2":
-    print("Please configure the Bot first.")
+    print("""Please configure the Bot first.
+[tokenlist.txt] => Add your Account-Token's here.
+[idlist.txt] => Add the Channel-ID's of your Bump-Rooms. \n""")
     sleep(1)
-    print("System will Exit in 5 Seconds!")
+    print("System will exit in 5 Seconds!")
     sleep(1)
-    print("System will Exit in 4 Seconds!")
+    print("System will exit in 4 Seconds!")
     sleep(1)
-    print("System will Exit in 3 Seconds!")
+    print("System will exit in 3 Seconds!")
     sleep(1)
-    print("System will Exit in 2 Seconds!")
+    print("System will exit in 2 Seconds!")
     sleep(1)
-    print("System will Exit in 1 Seconds!")
+    print("System will exit in 1 Seconds!")
     sleep(1)
-    print("System will Exit in 0 Seconds!")
+    print("System will exit in 0 Seconds!")
     sleep(1)
     print("[!] System quited!")
     exit
 else:
-    print("Input-Error [1] / [2] - System will Exit in 5 Seconds!")
+    print("Input-Error [1] / [2] - System will exit in 5 Seconds!")
     sleep(1)
-    print("Input-Error [1] / [2] - System will Exit in 4 Seconds!")
+    print("Input-Error [1] / [2] - System will exit in 4 Seconds!")
     sleep(1)
-    print("Input-Error [1] / [2] - System will Exit in 3 Seconds!")
+    print("Input-Error [1] / [2] - System will exit in 3 Seconds!")
     sleep(1)
-    print("Input-Error [1] / [2] - System will Exit in 2 Seconds!")
+    print("Input-Error [1] / [2] - System will exit in 2 Seconds!")
     sleep(1)
-    print("Input-Error [1] / [2] - System will Exit in 1 Seconds!")
+    print("Input-Error [1] / [2] - System will exit in 1 Seconds!")
     sleep(1)
-    print("Input-Error [1] / [2] - System will Exit in 0 Seconds!")
+    print("Input-Error [1] / [2] - System will exit in 0 Seconds!")
     sleep(1)
     print("[!] System quited!")
     exit
