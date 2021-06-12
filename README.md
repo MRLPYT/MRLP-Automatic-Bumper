@@ -10,7 +10,6 @@
     -If you make a Video about my Tool, please give credits, thanks for your support!<br>
     <br>
     <br>
-    
     <h3><u><b>CREDITS:</b></u></h3>
 </body>
 </html>
