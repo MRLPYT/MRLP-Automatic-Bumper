@@ -4,7 +4,8 @@
     <b>Coded by Mr Let's Play</b><br><br>
     <b><h3>SKDDING IS ILEGAL!</h3><br>DONT USE MY CODE FOR YOUR PROJECT!<br>THANKS!</b>
     <br>
-    <br>
+    <h3><u><b>DISABARD:</b></u></h3><br>
+    List: https://disboard.org/
     <h3><u><b>INSTALL:</b></u></h3><br>
     git clone https://github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens<br>
     <h3><u><b>PIP-LIBARIES:</b></u></h3><br>
@@ -22,6 +23,7 @@
     YouTube: @Mr Let's Play<br>
     Instagram: @jorisdelme<br>
     Twitter: @JankeJoris<br>
+    Discord; http://discord.io/mrlp
     <br>
 </body>
 </html>
