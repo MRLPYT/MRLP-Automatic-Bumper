@@ -7,7 +7,9 @@
     <h3><u><b>DISABARD:</b></u></h3><br>
     List: https://disboard.org/
     <h3><u><b>INSTALL:</b></u></h3><br>
-    git clone https://github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens<br>
+    <b>GIT:</b>
+    git clone https://github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens<br><br>
+    <b>WGET [ONLY LINUX]:</b><br>
     <h3><u><b>PIP-LIBARIES:</b></u></h3><br>
     -time<br>
     -requests<br>
