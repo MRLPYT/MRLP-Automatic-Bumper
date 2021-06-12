@@ -20,11 +20,11 @@
     -If you make a Video about my Tool, please give credits, thanks for your support!<br>
     <br>
     <h3><u><b>CREDITS:</b></u></h3><br>
-    Coded by @Mr Let's Play<br>
+    Coded by Joris Janke<br>
     YouTube: @Mr Let's Play<br>
     Instagram: @jorisdelme<br>
     Twitter: @JankeJoris<br>
-    Discord; http://discord.io/mrlp
+    Discord: http://discord.io/mrlp
     <br>
 </body>
 </html>
