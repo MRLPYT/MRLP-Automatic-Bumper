@@ -8,11 +8,11 @@
     <h3><u><b>INSTALL:</b></u></h3><br>
     git clone https://github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens<br>
     <h3><u><b>PIP-LIBARIES:</b></u></h3><br>
-    -time
-    -requests
-    -json
-    -os
-    -colorama
+    -time<br>
+    -requests<br>
+    -json<br>
+    -os<br>
+    -colorama<br><br>
     <h3><u><b>RULES:</b></u></h3>
     -Don't use my Code for your Projects.<br>
     -If you make a Video about my Tool, please give credits, thanks for your support!<br>
