@@ -26,7 +26,8 @@
     YouTube: @Mr Let's Play<br>
     Instagram: @jorisdelme<br>
     Twitter: @JankeJoris<br>
-    Discord: http://discord.io/mrlp
-    <br>
+    Discord: http://discord.io/mrlp<br>
+    Donate: https://paypal.me/MRLPYT
+<br>
 </body>
 </html>
