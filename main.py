@@ -16,7 +16,7 @@ def main():
             for line in open("tokenlist.txt", "r"):
                 token = str(line)
                 try:
-                    for line in open("idlist.txt", "r"):
+                    for line in open("id.txt", "r"):
                         id = line
                         try:
                             headers = {
@@ -30,7 +30,7 @@ def main():
                             )
                             print(f"Bumped! -- {id} with {token}")
                         except Exception as e:
-                            print(f"\n [!] Error with the ID-List or the Request-Libary: \n {e}")
+                            print(f"\n [!] Error with the ID or the Request-Libary: \n {e}")
                 except:
                     print("[!] File `tokenlist.txt` not found. Exiting Loop.")
                     sleep(0.8)
@@ -55,7 +55,7 @@ print(Fore.LIGHTBLUE_EX + f"""  __  __ _____  _      _____              _    _ _
  |_|  |_|_|  \_\______|_|        /_/    \_\____/   |_|  \____/       |____/ \____/|_|  |_|_|    |______|_|  \_\\
                                                                                                                """)
                                                                                                                
-print("""Do you already add your Account-Token's [tokenlist.txt] and your Channel-ID's [idlist.txt]?
+print("""Do you already add your Account-Token's [tokenlist.txt] and your Channel-ID [id.txt]?
 [1] = True
 [2] = False""")
 setupdone = str(input(f"[?] "))
@@ -73,7 +73,7 @@ if setupdone == "1":
 elif setupdone == "2":
     print("""Please configure the Bot first.
 [tokenlist.txt] => Add your Account-Token's here.
-[idlist.txt] => Add the Channel-ID's of your Bump-Rooms. \n""")
+[id.txt] => Add the Channel-ID of your Bump-Room. \n""")
     sleep(1)
     print("System will exit in 5 Seconds!")
     sleep(1)
