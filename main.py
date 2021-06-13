@@ -53,7 +53,14 @@ print(Fore.LIGHTBLUE_EX + f"""  __  __ _____  _      _____              _    _ _
  | |\/| |  _  /| |    |  ___/______/ /\ \| |  | |  | | | |  | |______|  _ <| |  | | |\/| |  ___/|  __| |  _  / 
  | |  | | | \ \| |____| |         / ____ \ |__| |  | | | |__| |      | |_) | |__| | |  | | |    | |____| | \ \ 
  |_|  |_|_|  \_\______|_|        /_/    \_\____/   |_|  \____/       |____/ \____/|_|  |_|_|    |______|_|  \_\\
-                                                                                                               """)
+                                                                                                               
+                                                                                                               
+Coded by Mr Let's Play
+YouTube: @Mr Let's Play
+Twitter: @JorisJanke
+Instagram: @Jorisdelme
+TikTok: @mrlp.tiktok
+""")
                                                                                                                
 print("""Do you already add your Account-Token's [tokenlist.txt] and your Channel-ID [id.txt]?
 [1] = True
