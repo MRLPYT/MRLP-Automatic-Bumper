@@ -8,9 +8,9 @@
     https://disboard.org/
     <h3><u><b>INSTALL:</b></u></h3><br>
     <b>GIT:</b><br>
-    git clone https://github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens<br><br>
+    git clone https://github.com/MRLPYT/MRLP-Automatic-Bumper<br><br>
     <b>DOWNLOAD:</b><br>
-     https://codeload.github.com/MRLPYT/MRLP-Automatic-Bumper-MultipleTokens/zip/refs/heads/master
+     https://codeload.github.com/MRLPYT/MRLP-Automatic-Bumper/zip/refs/heads/master
     <h3><u><b>PIP-LIBARIES:</b></u></h3><br>
     -time<br>
     -requests<br>
