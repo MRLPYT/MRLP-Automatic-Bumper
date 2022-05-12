@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <body>
     <b>Coded by Mr Let's Play</b><br><br>
-    <b><h3>SKDDING IS ILEGAL!</h3><br>DONT USE MY CODE FOR YOUR PROJECT!<br>THANKS!</b>
     <br>
     <h3><u><b>DISABARD:</b></u></h3><br>
     https://disboard.org/
